@@ -1,0 +1,13 @@
+body {
+  background-color: #b1ddbc;
+}
+
+/* туть прописываем шрифты нестандартные, прорисованныые дизайнером, лежащие в папке fonts */
+/* @font-face { */
+/* } */
+
+.wrapper {
+  height: 500px;
+  width: 500px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcGhQdiazWF__sk5Lywh8o_o8fnxdho8WUg&usqp=CAU);
+}
