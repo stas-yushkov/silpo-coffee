@@ -1,15 +1,15 @@
 # silpo-coffee
-* Info about Coffee Boutiques in Silpo markets.
+ Info about Coffee Boutiques in Silpo markets.
 
 
-*   Работает:
+   Работает:
 * Создан репозиторий
 * Собрать инфу  по сортам, обжарке
 * Обработка кофе 
 * Сорт - вкус 
 
 
-*   В планах:
+   В планах:
 * Меню
 * Фильтр(обжарка, цены, регион, магазин, обработка) 
 * Футер
